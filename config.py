@@ -3,8 +3,6 @@
 
 # In[ ]:
 
-
-### Keys: Ideally Import these tokens and keys from a config file 
 consumer_key = ''
 consumer_secret = ''
 
